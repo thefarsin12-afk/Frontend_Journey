@@ -1,14 +1,17 @@
 .card{
 
-    background-color: brown;
+    background-color: rgb(137, 52, 52);
     width: 500px;
     min-height: 250px;
     padding: 10px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
 }
+
 
 .card-image{
 
     width: 50%;
+    border-radius: 5px;
 }
