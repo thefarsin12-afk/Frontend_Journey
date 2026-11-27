@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containeer{
+
+    width: 80%;
+    height: 400px;
+    background-color: brown; 
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.child{
+
+    background-color: rgb(255, 255, 255);
+    bottom: 1px solid black;
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+@media (max-width:500px){
+
+    .containeer{
+
+        grid-template-rows: repeat(2,1fr);
+        grid-template-columns: repeat(2,1fr);
+    }
+    .child{
+        width: 100px;
+        height: 150px;
+        background-color: bisque;
+        color:black;
+    }
+}
+
