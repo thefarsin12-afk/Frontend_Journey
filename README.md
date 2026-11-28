@@ -1,11 +1,10 @@
-
 # 🚀 Frontend Development Journey
 
 Welcome to my Frontend Development Journey!
 
 This repository documents my learning progress in frontend development through practical exercises, coding challenges, and mini-projects.
 
-I'm currently focusing on **HTML5 and CSS3**, building a strong foundation in web page structure, styling, layouts, and responsive design.
+I'm currently focusing on **HTML5, CSS3, and Bootstrap**, building a strong foundation in web page structure, styling, layouts, responsive design, and UI development.
 
 ## 🎯 Learning Goals
 
@@ -15,16 +14,18 @@ I'm currently focusing on **HTML5 and CSS3**, building a strong foundation in we
 - Understand positioning and layouts.
 - Improve typography, spacing, and alignment.
 - Build responsive web pages.
+- Learn Bootstrap components and utility classes.
 - Develop practical frontend projects.
 
 ## 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,git,github" />
 </p>
 
 - HTML5
 - CSS3
+- Bootstrap 5
 - Visual Studio Code
 - Git & GitHub
 
@@ -36,9 +37,21 @@ I'm currently focusing on **HTML5 and CSS3**, building a strong foundation in we
 | CSS | Styling and design practice |
 | CSS Grid | Grid-based layouts |
 | Flexbox | Flexible layouts and alignment |
+| Responsive Design | Creating responsive web pages |
+| Bootstrap | Bootstrap components, utilities, and layouts |
 | Mini Projects | Practical frontend exercises |
 
 ## 💻 Projects
+
+### Login Page
+A simple login page implemented using HTML, CSS, and Bootstrap.
+
+**Concepts Practised:**
+- HTML structure and form elements
+- CSS styling
+- Bootstrap classes and utilities
+- Layout and alignment
+- Responsive design concepts
 
 ### Resume Webpage
 A basic personal resume webpage developed using HTML and CSS.
@@ -57,7 +70,9 @@ A basic personal resume webpage developed using HTML and CSS.
 - [x] CSS Fundamentals
 - [x] CSS Grid Basics
 - [x] Flexbox Basics
-- [ ] Responsive Web Design
+- [x] Responsive Design Basics
+- [x] Bootstrap Fundamentals (Currently Learning)
+- [ ] Advanced Bootstrap
 - [ ] Advanced CSS
 - [ ] JavaScript Fundamentals
 - [ ] React.js
